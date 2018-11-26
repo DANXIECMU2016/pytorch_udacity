@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/DANXIECMU2016/pytorch_udacity/blob/master/preceptron.png)
 
-*only work for linear boundary
+*preceptron only work for linear boundary
 
 ## preceptron 
 
